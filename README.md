@@ -1,8 +1,9 @@
 #Splendid.css
 <p>Created by <a href="http://danieldafoe.com">Daniel Dafoe</a></p>
 <p>Inspired by <a href="https://github.com/IanLunn/Hover">Hover.css</a> by Ian Lunn 
+<p>Splendid.css is a small CSS library of hover effecrs to give your HTML buttons a little more life.</p>
 <h2>License</h2>
-MIT Licensed; so about as free as a penny you find on the ground.
+<p>MIT Licensed; so about as free as a penny you find on the ground.</p>
 <h2>Basics</h2>
 <p>
 	To begin using Splendid.css, you're going to want to download the <code>.zip</code> file from <a href="https://github.com/danieldafoe/splendid" target="_blank">here</a>. This file will include
